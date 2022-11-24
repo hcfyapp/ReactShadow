@@ -1,4 +1,4 @@
-declare module 'react-shadow' {
+declare module '@hcfy/react-shadow' {
     import * as React from 'react';
 
     interface IProps {
